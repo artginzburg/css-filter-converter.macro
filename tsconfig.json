@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.cra.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "noEmit": false,
+    "declaration": true,
+    "module": "CommonJS",
+    "noImplicitAny": true
+  }
+}
