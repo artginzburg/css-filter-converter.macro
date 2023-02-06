@@ -14,7 +14,16 @@
     "prepack": "npm run build"
   },
   "keywords": [
-    "babel-plugin-macros"
+    "babel-plugin-macros",
+    "hex",
+    "hexadecimal",
+    "rgb",
+    "hsl",
+    "filter",
+    "converter",
+    "generator",
+    "color",
+    "css"
   ],
   "license": "MIT",
   "repository": "artginzburg/css-filter-converter.macro",
